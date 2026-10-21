@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "fName": "Ziad",
+        "lName": "Emad",
+        "age": 21,
+        "city": "Cairo"
+    },
+    {
+        "id": 2,
+        "fName": "Hassan",
+        "lName": "Ali",
+        "age": 20,
+        "city": "Helwan"
+    },
+    {
+        "id": 3,
+        "fName": "Sara",
+        "lName": "Ali",
+        "age": 20,
+        "city": "Helwan"
+    },
+    {
+        "id": 4,
+        "fName": "Mariem",
+        "lName": "Mohamed",
+        "age": 25,
+        "city": "Helwan"
+    },
+    {
+        "id": 5,
+        "fName": "Yasser",
+        "lName": "Ali",
+        "age": 20,
+        "city": "Helwan"
+    },
+    {
+        "id": 6,
+        "fName": "mona",
+        "lName": "alaa",
+        "age": 23,
+        "city": "Cairo"
+    },
+    {
+        "id": 7,
+        "fName": "mona",
+        "lName": "alaa",
+        "age": 23,
+        "city": "Cairo"
+    },
+    {
+        "id": 8,
+        "fName": "hanaa",
+        "lName": "ali",
+        "age": 22,
+        "city": "cairo"
+    },
+    {
+        "id": 9,
+        "fName": "hana",
+        "lName": "Mohamed",
+        "age": 22,
+        "city": "cairo"
+    }
+]
